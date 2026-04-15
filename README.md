@@ -1,4 +1,4 @@
-<h1>Bienvenidos a mi perfil✨ <br>¯\_(ツ)_/¯</h1>
+<h1 align="center">Bienvenidos a mi perfil✨ <br>¯\_(ツ)_/¯</h1>
 
 ###
 
