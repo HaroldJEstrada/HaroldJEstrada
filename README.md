@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Bienvenido a mi perfil✨ <br>¯\_(ツ)_/¯</h1>
+name: Generate pacman animationnido a mi perfil✨ <br>¯\_(ツ)_/¯</h1>
 
 ###
 
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
+      - uses: actions/checkout@v4
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Harold">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Harold&count=1&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31wgotipmmmruldajpoc36733zee?si=NVOuOGWVQoOvyNvXR29ekA">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wgotipmmmruldajpoc36733zee&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
