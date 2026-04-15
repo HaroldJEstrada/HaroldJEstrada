@@ -57,16 +57,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaroldJEstrada/HaroldJEstrada/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
