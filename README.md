@@ -53,8 +53,8 @@
 </div>
 
 
-<img align="right" height="150" src="[https://www.kali.org/blog/kali-linux-2019-3-release/images/nethunter-release-2019.3-01.gif](https://media.tenor.com/xHpMxtQcGoQAAAAi/berserk-jerk-berserk.gif)"/>
-###
+<img align="right" height="150" src="https://media.tenor.com/xHpMxtQcGoQAAAAi/berserk-jerk-berserk.gif"/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaroldJEstrada/HaroldJEstrada/output/pacman-contribution-graph-dark.svg">
@@ -62,13 +62,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaroldJEstrada/HaroldJEstrada/output/pacman-contribution-graph.svg">
 </picture>
 
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31wgotipmmmruldajpoc36733zee?si=NVOuOGWVQoOvyNvXR29ekA">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wgotipmmmruldajpoc36733zee&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
