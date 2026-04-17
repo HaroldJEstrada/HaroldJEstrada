@@ -51,8 +51,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HaroldJEstrada&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-###
-<img align="right" height="150" src="[https://media.tenor.com/wHad_yh17z8AAAAi/goth-bat.gif](https://th.bing.com/th/id/R.f0bcf4fff0f6b41afdc7f65e0f6cd884?rik=R9CGq1jDLPoTeg&pid=ImgRaw&r=0)"/>
+
+
+<img align="right" height="150" src="[https://www.kali.org/blog/kali-linux-2019-3-release/images/nethunter-release-2019.3-01.gif](https://media.tenor.com/xHpMxtQcGoQAAAAi/berserk-jerk-berserk.gif)"/>
 ###
 
 <picture>
